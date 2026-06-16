@@ -1,197 +1,91 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=&fontSize=0" />
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║               A M E N I   C H T A R A                   ║
-║                                                          ║
-║      Full-Stack Dev  ·  AI Engineer  ·  UI/UX            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
+<h1 align="center">Hi there, I'm Ameni Chtara 👋</h1>
 
 <p align="center">
-  <a href="mailto:amenichtara@gmail.com">
-    <img src="https://img.shields.io/badge/──  amenichtara@gmail.com  ──-1a1a2e?style=for-the-badge&logo=gmail&logoColor=9fe1cb"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;AI+%26+Chatbot+Integration;UI%2FUX+Designer;Automation+Specialist;Open+to+Freelance+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍 Tunis, Tunisia-161b22?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/💼 Open to Freelance-0f3d2e?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/⏳ 3+ Years Experience-1a1a2e?style=flat-square"/>
+  <a href="mailto:amenichtara@gmail.com"><img src="https://img.shields.io/badge/Email-amenichtara%40gmail.com-1d9e75?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Tunis%2C%20Tunisia-534ab7?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Freelance-brightgreen?style=flat-square"/>
 </p>
 
 ---
 
-<br/>
+### 👩‍💻 About Me
 
-## `{ about_me }`
+I'm a **mid-level developer** based in **Tunis, Tunisia** with 3+ years of experience building modern web applications, AI-powered chatbots, and seamless UI/UX experiences.
 
-> *I don't just write code — I craft experiences.*
+I work across the full stack — from designing clean interfaces in Figma to integrating AI models and automating workflows. I love turning complex requirements into products that are simple, fast, and beautiful.
 
-I'm a developer with a thing for elegant solutions. Whether I'm wiring up a chatbot that actually understands people, designing an interface that feels obvious to use, or cleaning a dataset nobody else wanted to touch — I bring the same obsession with detail to everything.
-
-My work sits at the intersection of **web**, **AI**, and **design**. I've spent 3+ years building things that work behind the scenes and look good upfront.
-
-If you're looking for someone who can go from whiteboard to working product — let's talk.
-
-<br/>
+- 🤖 I build **AI chatbots & integrations** using OpenAI, LangChain, and RAG pipelines
+- 🎨 I design **UI/UX** that balances aesthetics with usability
+- ⚙️ I automate workflows with **n8n, Zapier, Make**
+- 🌍 Available for **remote freelance** projects worldwide
+- 📬 Reach me at **amenichtara@gmail.com**
 
 ---
 
-## `{ what_i_do }`
+### 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="50%">
+**Frontend**
 
-**⬡ Web Development**
-Building fast, scalable full-stack applications from scratch — React frontends to REST backends.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
-<td width="50%">
+**Backend & AI**
 
-**⬡ AI & Chatbot Integration**
-Custom AI assistants, RAG pipelines, LLM integrations that actually make sense for your business.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**Design & Automation**
 
-**⬡ Data Engineering**
-Data preprocessing, cleaning, feature engineering — turning raw messy data into something useful.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
-</td>
-<td width="50%">
+**Database & Tools**
 
-**⬡ UI/UX Design**
-Interfaces built in Figma, shipped in React. Clean, intuitive, and built to convert.
-
-</td>
-</tr>
-</table>
-
-<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## `{ skills }`
-
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-
-**Frontend & UI**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
-
-**AI & Data**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=013243)
-
-**Backend & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-
-**Automation**
-
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
-![Zapier](https://img.shields.io/badge/Zapier-0d1117?style=flat-square&logo=zapier&logoColor=FF4A00)
-![Make](https://img.shields.io/badge/Make-0d1117?style=flat-square&logo=make&logoColor=6D00CC)
-
-<br/>
-
----
-
-## `{ data_expertise }`
-
-```python
-skills = {
-    "data_preprocessing"  : ["normalization", "encoding", "imputation"],
-    "feature_engineering" : ["selection", "extraction", "transformation"],
-    "data_cleaning"       : ["deduplication", "outlier_detection", "validation"],
-    "ai_integration"      : ["LLMs", "RAG", "chatbots", "embeddings"],
-    "oop"                 : ["design_patterns", "clean_architecture"],
-}
-```
-
-<br/>
-
----
-
-## `{ github_stats }`
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameni-chtara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=9fe1cb&icon_color=9fe1cb&text_color=c9d1d9&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameni-chtara&layout=compact&theme=tokyonight&hide_border=true&title_color=9fe1cb&text_color=c9d1d9&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ameni-chtara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameni-chtara&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
+---
+
+### 💼 Services I Offer
+
+| Service | Details |
+|---|---|
+| 🌐 Web Development | Full-stack apps with React / Next.js + Node.js backend |
+| 🤖 AI Chatbot Integration | Custom chatbots using OpenAI, LangChain, RAG |
+| ⚙️ Automation | Workflow automation with n8n, Zapier, Make |
+| 🎨 UI/UX Design | Figma prototypes, design systems, responsive UI |
+
+---
+
+### 🟢 Open for Freelance
+
+I'm currently **available** for freelance projects. If you're looking for a developer who can handle design, development, and AI integration — let's talk!
+
+📬 **amenichtara@gmail.com**
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ameni-chtara&theme=tokyonight&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=9fe1cb" />
+  <img src="https://komarev.com/ghpvc/?username=ameni-chtara&color=1d9e75&style=flat-square&label=Profile+Views"/>
 </p>
-
-<br/>
-
----
-
-## `{ hire_me }`
-
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   Available for freelance & remote work         │
-│                                                 │
-│   → Web apps built end-to-end                   │
-│   → AI chatbots & integrations                  │
-│   → Data pipelines & preprocessing              │
-│   → UI/UX design & implementation               │
-│   → Automation workflows                        │
-│                                                 │
-│   📬  amenichtara@gmail.com                     │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ameni-chtara&color=1d9e75&style=flat-square&label=profile+views" />
-
-*"Clean code. Clear thinking. Real results."*
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" />
-</div>
